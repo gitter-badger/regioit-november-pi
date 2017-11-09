@@ -1,5 +1,7 @@
 # RegioitNovemberPi
 
+[![Join the chat at https://gitter.im/Xampany/regioit-november-pi](https://badges.gitter.im/Xampany/regioit-november-pi.svg)](https://gitter.im/Xampany/regioit-november-pi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
 ## Development server
